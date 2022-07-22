@@ -1,2 +1,2 @@
 # AI-Assistant-Chat-Bot
-  This is a Python personal assistant named Julia which is a Voice Activated Desktop.
+![image](https://www.experian.com/blogs/global-insights/wp-content/uploads/2020/07/GIB_Virtual_Assistant.jpg)
